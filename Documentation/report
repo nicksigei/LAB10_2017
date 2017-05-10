@@ -1,0 +1,7 @@
+Report for lab 10
+40 images were used. 
+The images fo  different monuments in Kansas City and i wanted to get an Image and predict where the image belongs to.
+At certain confidence level we would tell where the image belongs to.
+Although i collected several images ,most of them were very close,very similar and therefore making it hard to predict exactly which is which
+
+The image data used and the code is posted herein Github.
